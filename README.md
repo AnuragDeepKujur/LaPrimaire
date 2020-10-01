@@ -6,7 +6,7 @@
 This is the code of [LaPrimaire.org website](https://laprimaire.org).
 It is a static website created with the [Nanoc](http://nanoc.ws/), a ruby static site generator that has been chosen for its accessibility and ease of use and [nanoc-skeleton](https://github.com/alessandro1997/nanoc-skeleton) as a starter template to provide Bootstrap goodness.
 
-## Usage
+
 
 Firing up a copy of democratech's website on your local computer is easy:
 
